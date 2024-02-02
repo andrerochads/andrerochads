@@ -1,6 +1,6 @@
 # Meus Projetos de Ciência de Dados
 
-## [Predição de preços para carros usados](https://github.com/andrerochads/andrerochads.git)
+## [Predição de preços para carros usados](https://github.com/andrerochads/cars_price_predict)
 Criação de uma solução para um problema de negócio relacionado a sugestão de preços de carros usados.
 
 **Entrega:** Website para consulta de preços online (Streamlit + API).
