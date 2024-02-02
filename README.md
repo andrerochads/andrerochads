@@ -1,4 +1,7 @@
 # Meus Projetos de Ciência de Dados
+Envolvem conhecimentos de negócio, machine learning, estatística e deploy de modelos.
+
+<br>
 
 ## [Predição de preços para carros usados](https://github.com/andrerochads/cars_price_predict)
 Criação de uma solução para um problema de negócio relacionado a sugestão de preços de carros usados.
