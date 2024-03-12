@@ -23,10 +23,10 @@ Identificação de clientes já na base de dados da empresa com maior probabilid
 
 **Entrega**: Retorno da planilha no google sheets com ordenação dos clientes mais propensos a adquirirem o seguro.
 
-## Programa de Fidelidade
+## [Programa de Fidelidade (Em desenvolvimento...)](https://github.com/andrerochads/cluster_fidelidade)
 Identificação dos melhores clientes da empresa e criação de relatório sobre esse grupo. Utilização de clusterização e RFM.
 
-**Entrega:** Em desenvolvimento...
+**Entrega:** Cloud AWS para o banco de dados + modelo e Dashboard dos clientes no Power BI.
 
 <br>
 <br>
