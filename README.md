@@ -3,8 +3,8 @@ Envolvem conhecimentos de negócio, machine learning, estatística e deploy de m
 
 <br>
 
-## [Predição de preços para carros usados](https://github.com/andrerochads/sugestao_preco_alugueis)
-Criação de uma solução para um problema de negócio relacionado a sugestão de preços de alugueis.
+## [Sugestão de preços para diárias](https://github.com/andrerochads/sugestao_preco_alugueis)
+Criação de uma solução para um problema de negócio relacionado a sugestão de preços de diárias.
 
 **Entrega:** Relatório e perguntas de negócios nos notebooks.
 
